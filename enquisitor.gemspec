@@ -21,6 +21,9 @@ Gem::Specification.new do |spec|
   end
   spec.require_paths = ["lib"]
 
+  spec.add_dependency "elasticsearch", ">= 5.0.4"
+  spec.add_dependency "typhoeus", "~> 1.3"
+
   spec.add_development_dependency "bundler", "~> 1.16"
   spec.add_development_dependency "pry", "~> 0.11"
   spec.add_development_dependency "rake", "~> 10.0"
