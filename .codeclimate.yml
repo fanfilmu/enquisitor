@@ -1,0 +1,7 @@
+languages:
+   Ruby: true
+plugins:
+  rubocop:
+    enabled: true
+  bundler-audit:
+    enabled: true
