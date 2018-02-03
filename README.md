@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/fanfilmu/enquisitor.svg?branch=master)](https://travis-ci.org/fanfilmu/enquisitor)
+[![Build Status](https://travis-ci.org/fanfilmu/enquisitor.svg?branch=master)](https://travis-ci.org/fanfilmu/enquisitor) [![Test Coverage](https://api.codeclimate.com/v1/badges/00927ee009a85055d5cf/test_coverage)](https://codeclimate.com/github/fanfilmu/enquisitor/test_coverage) [![Maintainability](https://api.codeclimate.com/v1/badges/00927ee009a85055d5cf/maintainability)](https://codeclimate.com/github/fanfilmu/enquisitor/maintainability)
 
 # Enquisitor
 

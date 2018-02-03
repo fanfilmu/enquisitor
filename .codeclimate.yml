@@ -1,5 +1,4 @@
-languages:
-   Ruby: true
+version: "2"
 plugins:
   rubocop:
     enabled: true
