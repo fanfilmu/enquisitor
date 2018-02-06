@@ -6,6 +6,8 @@ SimpleCov.start
 require "bundler/setup"
 require "enquisitor"
 
+require "support/index_helper"
+
 require "pry"
 
 RSpec.configure do |config|
